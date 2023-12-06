@@ -1,1 +1,17 @@
+price=120000
+area=800
+// all parameters used to generate this sample
+Beautiful property with stunning views and spacious living areas.
+------------------------ // divider
+price=150000
+area=1200
+// all parameters used to generate this sample
+Charming home with a large backyard, perfect for family gatherings.
+------------------------ // divider
+price=100000
+area=1000
+// all parameters used to generate this sample
+Modern apartment in the heart of the city, close to amenities.
+------------------------ // divider
+# ... (18 more entries)
 
